@@ -74,4 +74,4 @@ OK
 
 ## Author
 
-Done by - Sattwik
+Done by **Sattwik** - [GitHub](https://github.com/sattwik-07)
