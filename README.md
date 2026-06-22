@@ -72,6 +72,6 @@ OK
 * Timestamp conversion and standardization
 * Automated testing with Python unittest
 
-## Participant
+## Author
 
 Completed by **Sattwik** - [GitHub](https://github.com/sattwik-07)
