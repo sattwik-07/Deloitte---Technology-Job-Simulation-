@@ -72,11 +72,6 @@ OK
 * Timestamp conversion and standardization
 * Automated testing with Python unittest
 
----
-## Certificate
-<img width="530" height="408" alt="Screenshot 2026-06-08 211158" src="https://github.com/user-attachments/assets/964b3f7d-d236-404f-b699-2e8e06392327" />
----
-
 ## Participant
 
 Completed by **Sattwik** - [GitHub](https://github.com/sattwik-07)
